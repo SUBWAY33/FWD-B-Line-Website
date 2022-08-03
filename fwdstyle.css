@@ -1,0 +1,158 @@
+.topbar {
+  background-color: rgb(61, 61, 61);
+  padding: 7px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  color: white;
+}
+.navbar {
+  background-color: rgb(156, 149, 149);
+  padding: 21px;
+}
+.button-40 {
+  background-color: #111827;
+  border: 1px solid transparent;
+  border-radius: 0.75rem;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  flex: 0 0 auto;
+  font-family: "Inter var", ui-sans-serif, system-ui, -apple-system, system-ui,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding: 0.75rem 1.2rem;
+  text-align: center;
+  text-decoration: none #6b7280 solid;
+  text-decoration-thickness: auto;
+  transition-duration: 0.2s;
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+  margin-left: 80%;
+  position: absolute;
+  margin-top: -4%;
+}
+
+.button-40:hover {
+  background-color: #374151;
+}
+
+.button-40:focus {
+  box-shadow: none;
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+@media (min-width: 768px) {
+  .button-40 {
+    padding: 0.75rem 1.5rem;
+  }
+}
+.our {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  position: absolute;
+  text-decoration-color: white;
+  margin-top: -83%;
+  color: white;
+  margin-left: 45%;
+}
+.about {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-decoration-color: #098ac4;
+  height: 3px;
+  position: absolute;
+}
+.back {
+  background-image: url("bg_02.jpg");
+  background-repeat: no-repeat;
+}
+.h55 {
+  margin-left: 2%;
+  color: white;
+}
+.leaf {
+  background-image: url("bg_04.jpg");
+  background-repeat: no-repeat;
+}
+.sus {
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-align: center;
+  font-weight: bold;
+}
+.pro {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-align: center;
+  font-weight: bold;
+}
+.ser {
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  padding: 3%;
+  text-align: center;
+  font-weight: bold;
+}
+.leaftext {
+  color: white;
+  text-align: center;
+}
+.projects {
+  background-image: url("bg_05.jpg");
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+.rec {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  padding: 3%;
+}
+.recent {
+  background-image: url("bg_06.jpg");
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+.card {
+  margin-left:9%;
+  width: 80%;
+  text-align: center;
+}
+.card2 {
+  margin-left: 500px;
+  width: 31%;
+  text-align: center;
+}
+.foot{
+    background-image:url("layout_80.png");
+    background-repeat: no-repeat;
+    padding: 50px;
+    width: 100%;
+}
+.main{
+    color: white;
+    text-decoration: underline;
+    text-decoration-thickness:4px;
+}
+.list{
+    color: white;
+}
